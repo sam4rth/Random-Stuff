@@ -1,4 +1,4 @@
-### Prerequisites {{renderer :todomaster}}
+- ### Prerequisites {{renderer :todomaster}}
 id:: 666a7351-f7f5-4946-938d-a1bce95f83a1
 	- TODO 1. **HTML/CSS**
 		- Basic understanding of HTML elements and CSS styling.
