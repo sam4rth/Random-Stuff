@@ -1,0 +1,81 @@
+### Prerequisites {{renderer :todomaster}}
+id:: 666a7351-f7f5-4946-938d-a1bce95f83a1
+	- TODO 1. **HTML/CSS**
+		- Basic understanding of HTML elements and CSS styling.
+		- **Resources**:
+			- [W3Schools - HTML](https://www.w3schools.com/html/)
+			- [W3Schools - CSS](https://www.w3schools.com/css/)
+			- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+			- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+	- TODO 2. **JavaScript**
+		- Proficiency in ES6+ features: arrow functions, classes, modules, destructuring, template literals.
+		- **Resources**:
+			- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+			- [ES6 Features](https://www.ecma-international.org/ecma-262/6.0/)
+	- TODO 3. **NPM**
+		- Basic knowledge of Node Package Manager for managing dependencies.
+		- **Resources**:
+			- [NPM Documentation](https://docs.npmjs.com/)
+	- TODO 4. **JavaScript Build Tools**
+		- Familiarity with Webpack and Babel (optional but beneficial).
+		- **Resources**:
+			- [Webpack](https://webpack.js.org/)
+			- [Babel](https://babeljs.io/)
+- ### Learning Path {{renderer :todomaster}}
+	- TODO 1. **Introduction to React**
+		- Understanding the basic concepts and setup.
+		- **Resources**:
+			- [React Documentation - Quick Start](https://react.dev/learn)
+	- TODO 2. **Creating and Nesting Components**
+		- Learn to create reusable UI components.
+		- **Resources**:
+			- [React Documentation - Creating Components](https://react.dev/learn)
+	- TODO 3. **Writing Markup with JSX**
+		- Understanding JSX syntax and its use.
+		- **Resources**:
+			- [React Documentation - JSX](https://react.dev/learn)
+	- TODO 4. **Adding Styles**
+		- Applying CSS styles to React components.
+		- **Resources**:
+			- [React Documentation - Styling](https://react.dev/learn)
+	- TODO 5. **Displaying Data**
+		- Embedding and displaying data within components.
+		- **Resources**:
+			- [React Documentation - Displaying Data](https://react.dev/learn)
+	- TODO 6. **Conditional Rendering**
+		- Rendering components based on conditions.
+		- **Resources**:
+			- [React Documentation - Conditional Rendering](https://react.dev/learn)
+	- TODO 7. **Rendering Lists**
+		- Generating lists of elements dynamically.
+		- **Resources**:
+			- [React Documentation - Lists and Keys](https://react.dev/learn)
+	- TODO 8. **Handling Events**
+		- Managing user interactions with event handlers.
+		- **Resources**:
+			- [React Documentation - Handling Events](https://react.dev/learn)
+	- TODO 9. **Managing State**
+		- Using hooks like `useState` to manage component state.
+		- **Resources**:
+			- [React Documentation - State and Lifecycle](https://react.dev/learn)
+	- TODO 10. **Sharing Data Between Components**
+		- Lifting state up and using props for data sharing.
+		- **Resources**:
+			- [React Documentation - Lifting State Up](https://react.dev/learn)
+	- TODO 11. **Using Hooks**
+		- Utilizing built-in hooks and creating custom hooks.
+		- **Resources**:
+			- [React Documentation - Hooks](https://react.dev/learn)
+- ### Additional Resources
+	- **Tutorials and Courses**:
+		- [FreeCodeCamp](https://www.freecodecamp.org/)
+		- [Codecademy](https://www.codecademy.com/)
+		- [Udemy](https://www.udemy.com/)
+	- **Books**:
+		- [“Learning React” by Alex Banks and Eve Porcello](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/)
+		- [“React Up & Running” by Stoyan Stefanov](https://www.oreilly.com/library/view/react-up/9781491931820/)
+	- **Community and Forums**:
+		- [Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs)
+		- [Reactiflux Discord](https://www.reactiflux.com/)
+- ### GitHub Education
+	- Login to Github Education and look if there you can find good resources with stru
