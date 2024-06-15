@@ -1,3 +1,4 @@
+# React Learning Roadmap
 - ### Prerequisites
 	- TODO 1. **HTML/CSS**
 		- Basic understanding of HTML elements and CSS styling.
@@ -77,4 +78,4 @@
 		- [Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs)
 		- [Reactiflux Discord](https://www.reactiflux.com/)
 - ### GitHub Education
-	- Login to Github Education and look if there you can find good resources with stru
+	- Login to GitHub Education and see if you can find some good resources with structure.
