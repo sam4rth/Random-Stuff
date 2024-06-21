@@ -5,15 +5,15 @@
 	- [Apple allows sideloading apps on iPhone: What it means for users, how it will work and more | - Times of India (indiatimes.com)](https://timesofindia.indiatimes.com/gadgets-news/apple-allows-sideloading-apps-on-iphone-what-it-means-for-users-how-it-will-work-and-more/articleshow/107174733.cms)
 	- [Update on apps distributed in the European Union - Support - Apple Developer](https://developer.apple.com/support/dma-and-apps-in-the-eu/)
 	- [iOS 17 is cool and all, but what about side loading? : r/ios (reddit.com)](https://www.reddit.com/r/ios/comments/153rz0r/ios_17_is_cool_and_all_but_what_about_side_loading/)
-	- [Here's how Apple will check if your iPhone is eligible for sideloading : r/apple (reddit.com)](https://www.reddit.com/r/apple/comments/1abk9ct/heres_how_apple_will_check_if_your_iphone_is/)
+	- [Here's how Apple will check if your iPhone is eligible for sideloading: r/apple (Reddit.com)](https://www.reddit.com/r/apple/comments/1abk9ct/heres_how_apple_will_check_if_your_iphone_is/)
 	- [Here's how Apple will check if your iPhone is eligible for sideloading (9to5mac.com)](https://9to5mac.com/2024/01/25/apple-check-iphone-eligible-sideloading/)
-	- **Summery**
+	- **Summary**
 	   
 		- https://chatgpt.com/share/149108b7-8431-4631-a131-b315bdb76933
-		- There is more than 70% chance that IOS will allow sideloding in the next 5 years
+		- There is more than 70% chance that IOS will allow sideloading  in the next 5 years
 		- It is a winning bet!
 - # What is the market of modded apps?
-	- Why people use modded apps? How? and How much?
+	- Why do people use modded apps? How? and How much?
 	   
 		- ## ModZoo: A Large-Scale Study of Modded Android Apps and their Markets
 		   
@@ -50,7 +50,7 @@
 			- Surveys and market research reports can help understand the percentage of Android users who use modded apps.
 			- ### 2.  **Average Revenue per User (ARPU)** :
 			- Calculate the ARPU for official apps in similar categories.
-			- This can be found from app store statistics and industry reports.
+			- This can be found in app store statistics and industry reports.
 			- ### 3.  **Revenue Loss to Modded Apps** :
 			- Determine the percentage of users who would have paid for the official app if the modded version was not available.
 			- Use historical data or studies on the impact of piracy on software sales.
@@ -72,10 +72,10 @@
 				- Modded app market size: 20% of $120 billion = $24 billion.
 			- ### Summary:
 			  
-			  Based on these estimations, the market size for modded apps could be around **$24 billion annually**. This figure can vary significantly depending on user behavior, regional differences, and the accuracy of the assumptions.
+			  Based on these estimations, the market size for modded apps could be around **$24 billion annually**. This figure can vary significantly depending on user behaviour, regional differences, and the accuracy of the assumptions.
 			  
 			  Would you like the complete answer in markdown format?
-	- What could be the market for **IOS** if sideloding is allowed?
+	- What could be the market for **IOS** if sideloading  is allowed?
 	   
 		- If sideloading were allowed on iOS, it could significantly impact the market, similar to the effects seen in the Android ecosystem. Here's a detailed estimation process:
 		- ### 1.  **Estimate Potential User Base** :
