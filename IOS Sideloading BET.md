@@ -1,8 +1,6 @@
 # Case
-collapsed:: true
-	- ((667225ec-5405-42b8-a6bd-307efa4a67ed))
 - # Can this shit happen?
-  collapsed:: true
+   
 	- [Apple's Plan to Allow Sideloading on the iPhone Doesn't Address the 1 Thing Anyone Cares About | Inc.com](https://www.inc.com/jason-aten/apples-plan-to-allow-sideloading-on-iphone-doesnt-address-1-thing-anyone-cares-about.html)
 	- [Apple allows sideloading apps on iPhone: What it means for users, how it will work and more | - Times of India (indiatimes.com)](https://timesofindia.indiatimes.com/gadgets-news/apple-allows-sideloading-apps-on-iphone-what-it-means-for-users-how-it-will-work-and-more/articleshow/107174733.cms)
 	- [Update on apps distributed in the European Union - Support - Apple Developer](https://developer.apple.com/support/dma-and-apps-in-the-eu/)
@@ -10,16 +8,15 @@ collapsed:: true
 	- [Here's how Apple will check if your iPhone is eligible for sideloading : r/apple (reddit.com)](https://www.reddit.com/r/apple/comments/1abk9ct/heres_how_apple_will_check_if_your_iphone_is/)
 	- [Here's how Apple will check if your iPhone is eligible for sideloading (9to5mac.com)](https://9to5mac.com/2024/01/25/apple-check-iphone-eligible-sideloading/)
 	- **Summery**
-	  collapsed:: true
+	   
 		- https://chatgpt.com/share/149108b7-8431-4631-a131-b315bdb76933
 		- There is more than 70% chance that IOS will allow sideloding in the next 5 years
 		- It is a winning bet!
 - # What is the market of modded apps?
-  collapsed:: true
 	- Why people use modded apps? How? and How much?
-	  collapsed:: true
+	   
 		- ## ModZoo: A Large-Scale Study of Modded Android Apps and their Markets
-		  collapsed:: true
+		   
 		  This document summarizes the key findings from the study titled "ModZoo: A Large-Scale Study of Modded Android Apps and their Markets." The study provides a comprehensive analysis of modded Android applications, exploring their characteristics, prevalence, and security implications.
 			- **Total modded apps analyzed**: 165,426
 			- **App stores and sources**: Over 80 different sources, including popular third-party app stores and forums.
@@ -46,7 +43,7 @@ collapsed:: true
 			  
 			  For more detailed analysis and findings, you can access the full paper [here](https://arxiv.org/html/2402.19180v1).
 	- Market size for modded **Android** apps? (**$24 Billion**)
-	  collapsed:: true
+	   
 		- Estimating the market size for modded apps involves several factors, including user demand, app availability, and the potential revenue lost by official app developers. Here are some steps to make a reasonable estimation:
 			- ### 1.  **Estimate User Base** :
 			- Identify the number of users downloading modded apps.
@@ -79,7 +76,7 @@ collapsed:: true
 			  
 			  Would you like the complete answer in markdown format?
 	- What could be the market for **IOS** if sideloding is allowed?
-	  collapsed:: true
+	   
 		- If sideloading were allowed on iOS, it could significantly impact the market, similar to the effects seen in the Android ecosystem. Here's a detailed estimation process:
 		- ### 1.  **Estimate Potential User Base** :
 			- Number of iOS users globally.
@@ -96,7 +93,7 @@ collapsed:: true
 		- #### Example Calculation:
 			- **User Base Estimation**:
 				- Total iOS users globally: 1 billion.
-				- Assume 5% would use sideloaded apps (based on similar Android sideloading behavior): 50 million users.
+				- Assume 5% would use sideloaded apps (based on similar Android sideloading behaviour): 50 million users.
 			- **Average Revenue per User**:
 				- Assume ARPU for iOS apps (including in-app purchases, subscriptions, etc.): $30/year.
 			- **Revenue Loss**:
@@ -112,7 +109,7 @@ collapsed:: true
 		  
 		  Would you like the complete answer in markdown format?
 	- **Summary**
-	  collapsed:: true
+	   
 		- ITS BIG FUCKING MONEY!!!
 - # How can I mod IOS apps?
-	- [Roadmap for Making Modded Apps for iOS](LINK)
+	- [Roadmap for Making Modded Apps for iOS](https://github.com/sam4rth/Random-Stuff/blob/main/Roadmap%20for%20Making%20Modded%20Apps%20for%20iOS.md)
