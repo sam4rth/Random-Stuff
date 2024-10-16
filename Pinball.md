@@ -44,7 +44,7 @@
 			- https://open.spotify.com/playlist/4uj6bJgjBtW7r91ognROc7?si=75fe848a2a6b45bd
 				- Arcadish music
 			- https://open.spotify.com/playlist/0sI7mlpvRfVdBh4XXhSv74?si=1d0fc0a01feb4cb5
-				-
+				- Hotline Miami is just cool
 		- Pinball (Game of chance or game of skill?)
 			- Resources
 				- [Pinball - Wikipedia](https://en.wikipedia.org/wiki/Pinball)
